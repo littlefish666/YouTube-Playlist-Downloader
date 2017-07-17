@@ -14,4 +14,4 @@ View all information on the application [here](https://frazzlee.github.io/YouTub
 ```
 ### Support or Contact
 
-Having trouble with the app or want to ask a question? Look [here](frazzlee.github.io) for contact information.
+Having trouble with the app or want to ask a question? Contact through email - 3530441844@qq.com.
